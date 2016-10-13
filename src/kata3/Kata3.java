@@ -18,3 +18,4 @@ public class Kata3 {
         new HistogramDisplay(histogram).execute();
     }
 }
+
